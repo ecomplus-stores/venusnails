@@ -32,6 +32,18 @@
     </url>
   
     <url>
+      <loc>https://venusnails.netlify.app/preparadores/primer</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://venusnails.netlify.app/preparadores/regulador-de-ph</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://venusnails.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -44,13 +56,13 @@
     </url>
   
     <url>
-      <loc>https://venusnails.netlify.app/pages/pagamentos</loc>
+      <loc>https://venusnails.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://venusnails.netlify.app/pages/faq</loc>
+      <loc>https://venusnails.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -92,27 +104,21 @@
     </url>
   
     <url>
-      <loc>https://venusnails.netlify.app/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://venusnails.netlify.app/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
     </url>
   
     <url>
-      <loc>https://venusnails.netlify.app/search</loc>
+      <loc>https://venusnails.netlify.app/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://venusnails.netlify.app/admin/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
+      <loc>https://venusnails.netlify.app/search</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
@@ -125,6 +131,12 @@
       <loc>https://venusnails.netlify.app/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://venusnails.netlify.app/admin/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
 </urlset>
