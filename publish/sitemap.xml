@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://venusnails.netlify.app/preparadoes</loc>
+      <loc>https://venusnails.netlify.app/preparadores</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -26,13 +26,13 @@
     </url>
   
     <url>
-      <loc>https://venusnails.netlify.app/pages/contato</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
+      <loc>https://venusnails.netlify.app/preparadores/prep</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://venusnails.netlify.app/pages/faq</loc>
+      <loc>https://venusnails.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -45,6 +45,12 @@
   
     <url>
       <loc>https://venusnails.netlify.app/pages/pagamentos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://venusnails.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
