@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.f5e57160912c93615b01880eedf76766.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.1a84c3485f4bfba2b54981c6b28cdfa5.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.c8f3681cbf87e85afede787ebc222fc0.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.53a51d25bb6ac6d9c00288e215919a92.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.463fac26d26f33972ecfad149875f545.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "venusnails",
+  "short_name": "Vênus Nails",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Somos criadoras. Somos artistas. Somos Vênus.\n Acreditamos que unhas são mais do que detalhes – são expressões, \nidentidade, atitude. Cada pincelada, cada traço e cada cor contam \numa história. Aqui, celebramos a criatividade sem medo, sem \nregras, sem limites.\n Para as mãos que moldam beleza, criamos produtos que elevam o \nofício, fortalecem o talento e dão vida às ideias. Da delicadeza dos \ntons suaves à ousadia dos acabamentos vibrantes, oferecemos as \nferramentas para que cada nail designer transforme inspiração em \narte.\n\n Vênus é amor pelo que fazemos. É acolhimento, inovação e \npotência. É o brilho no olhar ao ver um trabalho finalizado com \norgulho. É a confiança de saber que cada detalhe importa.\n Criamos para quem ousa criar. Seja bem-vinda à Vênus. ✨💜",
+  "background_color": "#f9f4f9",
+  "theme_color": "#c7a9ed"
+}
