@@ -22,12 +22,19 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
-      "title": "",
-      "headless": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "6883afa6578b5f79547246fe:brands:Vênus:/venus",
+      "sort": "sales",
+      "title": "Mais Vendidos"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "title": "Gel Vênus",
+      "collection_id": "6881a0d3578b5f795470190c:categories:Gel:/gel"
     },
     {
       "type": "page-title",
